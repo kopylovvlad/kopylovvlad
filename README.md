@@ -22,5 +22,5 @@ There are links on my projects:
 - [My notes about Ruby and RoR](https://github.com/kopylovvlad/tricky_ruby)
 
 There are links on my blogs:
-- [medium 🇬🇧🇷🇺](https://medium.com/@kopilov.vlad)
-- [dev,to 🇬🇧](https://dev.to/kopylov_vlad)
+- [medium 🇬🇧 🇷🇺](https://medium.com/@kopilov.vlad)
+- [dev.to 🇬🇧](https://dev.to/kopylov_vlad)🇺
