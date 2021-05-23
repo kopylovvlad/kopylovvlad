@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a passionate software engineer and Ruby expert.
+
+There are links on my projects:
+- [My articles](https://github.com/kopylovvlad/articles)
+- [My notes about Ruby and RoR](https://github.com/kopylovvlad/tricky_ruby)
+
+There are links on my blogs:
+- [medium 🇬🇧🇷🇺](https://medium.com/@kopilov.vlad)
+- [dev,to 🇬🇧](https://dev.to/kopylov_vlad)
