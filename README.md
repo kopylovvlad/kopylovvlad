@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 I'm a passionate software engineer and Ruby expert.
 
 There are links on my projects:
-- [My articles](https://github.com/kopylovvlad/articles)
-- [My notes about Ruby and RoR](https://kopylovvlad.github.io/tricky_ruby/)
+- [Articles](https://github.com/kopylovvlad/articles)
+- [Notes about Ruby and RoR](https://kopylovvlad.github.io/tricky_ruby/)
+- [Mini RubyOnRails from scratch](https://github.com/kopylovvlad/mini_rails)
 
-There are links on my blogs:
+There are links to my blogs:
 - [medium 🇬🇧 🇷🇺](https://kopilov-vlad.medium.com)
 - [dev.to 🇬🇧](https://dev.to/kopylov_vlad)🇺
 
