@@ -21,6 +21,9 @@ There are links on my projects:
 - [Articles](https://github.com/kopylovvlad/articles)
 - [Notes about Ruby and RoR](https://kopylovvlad.github.io/tricky_ruby/)
 - [Mini RubyOnRails from scratch](https://github.com/kopylovvlad/mini_rails)
+- [Canvas Image Processing](https://github.com/kopylovvlad/canvas_image_processing)
+- [DeployHoroscope](https://github.com/kopylovvlad/deploy_horoscope)
+- [MetaInformation](https://github.com/kopylovvlad/meta_information)
 
 There are links to my blogs:
 - [medium 🇬🇧 🇷🇺](https://kopilov-vlad.medium.com)
